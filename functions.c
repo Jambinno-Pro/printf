@@ -1,6 +1,7 @@
 #include "main.h"
 /************************* PRINT CHAR *************************/
 /**
+ * Innocent x Lebo
  * print_char - Prints a char
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
